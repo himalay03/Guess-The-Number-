@@ -10,12 +10,6 @@ Link to visit the Guess The Number App
 https://guess-the-number-dom-manipulation.netlify.app/
 ```
 
-Youtube Link for the video demonstration of the project
-```bash
-https://www.youtube.com/watch?v=vVFROxt5mms&t=119s
-```
-
-
 ## Run Locally
 
 ### Clone the project
